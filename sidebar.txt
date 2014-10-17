@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gka:home|Door43 (gka)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gka|d43-gka repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gka/archive/master.zip|d43-gka.zip]]
+
+**Recent Changes**
+{{changes>ns = gka}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gka|Ethnologue data]]
+
